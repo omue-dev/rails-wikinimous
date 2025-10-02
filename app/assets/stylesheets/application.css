@@ -8,3 +8,14 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+/* Standardtext mit Roboto */
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+/* Überschriften mit Roboto Slab */
+h1, h2, h3, h4, h5, h6,
+.navbar-brand {
+  font-family: 'Roboto Slab', serif;
+}
